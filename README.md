@@ -10,10 +10,9 @@ DECLARE @my_repo = "Awesome!"
 
 ### Sales vs Sales Goal MTD
 [Sales vs Sales Goal MTD.sql](https://github.com/sheridanwendt/sql)
-This query assigns a goal of $1,000,000 as the sales goal for the month, adds up all sales for the month so far, and then compares it to where your sales should be at right now if you are on track with your sales goal. 
+This query assigns a goal of $1,000,000 as the sales goal for the month, adds up all sales for the month so far, and then compares it to where your sales should be at right now if you are on track with your sales goal. The results look like this
 
-It returns results like this
-Sales Goal    Today's Target     Gross Sales
+#### Sales Goal     Todays Target      Gross Sales
 1000000.00    500000.00          503000.00
 
 
@@ -21,5 +20,5 @@ Sales Goal    Today's Target     Gross Sales
 
 
 
-
-[Home](http://SheridanWendt.com) [Music](http://music.SheridanWendt.com) [Projects](http://projects.SheridanWendt.com)
+__________________________________
+[Home](http://SheridanWendt.com) | [Music](http://music.SheridanWendt.com) | [Projects](http://projects.SheridanWendt.com)
